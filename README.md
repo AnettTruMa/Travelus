@@ -3,7 +3,6 @@
 **Objetivo**: Optimizar el journey de un pasajero que viaja de la CDMX a Cuernavaca
 
 ## TRAVELUS
-![homeua](https://user-images.githubusercontent.com/32868463/38585951-6381dca4-3ce1-11e8-83fc-6182c893a40f.png)
 
 ### Equipo
 * PO - Anett Paulina Trujillo Marín
