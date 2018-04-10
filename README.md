@@ -1,4 +1,5 @@
 # Sprint 1
+![travelus01](https://user-images.githubusercontent.com/32868463/38587498-524058fc-3ce7-11e8-9299-56c5943215b4.png)
 
 **Objetivo**: Optimizar el journey de un pasajero que viaja de la CDMX a Cuernavaca
 
