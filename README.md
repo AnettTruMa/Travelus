@@ -93,6 +93,8 @@ Fair trade: nuevos canales de mercado a cambio de nuestro servicio.
 
 * El 82.76% de nuestros usuarios utilizaron un dispositivo Android, frente a un 17.24% de usuarios de iOS.
 * El 65% de las visitas desde android derivaron en el registro.
+#### Landing page Travelus
+
 
 #### Link de la presentación del proyecto:
 [Canva_presentación_proyecto](https://www.canva.com/design/DACwmuHqkf0/n3FqSmpC76poI3P3Chj-Zg/edit?layouts=&category=tACFar75J9E)
