@@ -94,4 +94,4 @@ Fair trade: nuevos canales de mercado a cambio de nuestro servicio.
 ![landing-travelus](https://user-images.githubusercontent.com/32868463/38604923-74bc49e0-3d37-11e8-9f37-57ac5dc0df6f.png)
 
 #### Link de la presentación del proyecto:
-[Canva_presentación_proyecto](https://www.canva.com/design/DACwmuHqkf0/n3FqSmpC76poI3P3Chj-Zg/edit?layouts=&category=tACFar75J9E)
+[Canva_presentacion_proyecto](https://www.canva.com/design/DACwmuHqkf0/n3FqSmpC76poI3P3Chj-Zg/edit?layouts=&category=tACFar75J9E)
